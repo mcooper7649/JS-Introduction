@@ -1,6 +1,8 @@
 # Javascript Module Introduction
 ---
 
+## JS-Introduction
+---
 Brendan Eich first created LiveScript which evolved into JavaScript. ECMA script is the European Computer Manufactureres Associates (ECMA) that was a way to Standardize JavaScript as many different versions began to come out. You will hear the terms "ES6" or "ES7" and this a reference to the version of ECMA.
 
 Think of JavaScript like  script in a play, it tells the code what to do and when.
@@ -21,11 +23,14 @@ There are two times of programming languages, Interpreted and Compiled.
 ---
 
 * Want to type multiple lines of code into the console? Hold SHIFT
+* [MDN-JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript) - Use the search function to find the relevant command. 
+* 
 
 ## Basic Commands
 ---
 
-`alert("Hello");`  - Basic Alert Command 
+`alert("Hello");`  - Basic Alert Command  
+> alert = function,  "Hello" = Mesage, ; = end
 
 ## Chrome/Brave Developer Tools
 ---
@@ -38,4 +43,4 @@ There are two times of programming languages, Interpreted and Compiled.
 
 [MDN-JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript)
 
-# JS-Introduction
+
