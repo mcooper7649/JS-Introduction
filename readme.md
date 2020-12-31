@@ -24,7 +24,6 @@ There are two times of programming languages, Interpreted and Compiled.
 
 * Want to type multiple lines of code into the console? Hold SHIFT
 * [MDN-JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript) - Use the search function to find the relevant command. 
-* 
 
 ## Basic Commands
 ---
@@ -72,9 +71,9 @@ var myName = "Jack Bauer"
 var yourName = prompt("What is your Name?");
 alert("My Name is " + myName + ", welcome to my course " + yourName + "!");
 ```
->Line 1 sets an instructor name variable
->Line 2 Prompts for yourName and stores it.
->Line 3 Alert window welcome introduction using both variables
+> Line 1 sets an instructor name variable
+> Line 2 Prompts for yourName and stores it.
+> Line 3 Alert window welcome introduction using both variables
 
 
 ## Notable Links
