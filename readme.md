@@ -61,6 +61,11 @@ There are two times of programming languages, Interpreted and Compiled.
 `var myName = Michael` = If you type this then enter "myName" into console, Michael will be returned.
 `myName = Mike C` = If you want to change a pre-established variable no need to declare var before the variable name.
 
+1) Variables cannot start with numbers
+2) Variables cannot contain spaces
+3) Only letters numbers or symbols can be variables (no -).
+4) Use camelCase - first word lowercase every word after is capitalized.
+
 ## JavaScript Challenge 1
 ---
 
@@ -74,6 +79,37 @@ alert("My Name is " + myName + ", welcome to my course " + yourName + "!");
 > Line 1 sets an instructor name variable
 > Line 2 Prompts for yourName and stores it.
 > Line 3 Alert window welcome introduction using both variables
+
+## Javascript Variables Challenge 2
+---
+
+Swap Variable Values without
+1) Redeclaring A or B
+2) Typing a Number
+3) Reassigning A or B
+
+See veriables.js for solution
+
+```
+function test() {
+    var a = "3";
+    var b = "8";
+    
+/***********Do not change the code above 👆*******/
+//Write your code on lines 7 - 9:
+
+
+
+    
+/***********Do not change the code below 👇*******/
+
+    console.log("a is " + a);
+    console.log("b is " + b);
+}
+```
+
+
+
 
 
 ## Notable Links
