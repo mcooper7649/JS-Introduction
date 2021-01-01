@@ -54,6 +54,21 @@ There are two times of programming languages, Interpreted and Compiled.
 2. Numbers | Numbers
 3. Boolean | True or False
 
+## Strings
+---
+
+Concatenation = Joining two strings together
+``alert("hello" + " World");``  - Basic Concatenation 
+
+## Strings Challenge 1
+---
+
+Set var1 to be a message | Hello
+Set var2 to be a name | "Mike"
+On a single line of code create a popup or alert that combines or concatenates these two variables into a single string.
+
+see concatenation.js for solution.
+
 ## Variables
 ---
 
