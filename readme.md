@@ -124,7 +124,7 @@ function test() {
 ```
 
 
-## Length Property
+## Length 
 ---
 ``var example = "mike"``
 
@@ -136,9 +136,9 @@ function test() {
 1. Prompt user to type a twitter like message
 2. Return the amount of Characters remaining of a max total 140 characters.
 
-See lengthProperthy.js for solution.
+See length.js for solution.
 
-## Slice Property
+## Slice 
 ---
 
 Slice lets you slice or removing part of the data.
@@ -160,7 +160,31 @@ Returns the letter "ik" would be returned.
 Implement Twitter Character counter again but this time slice any characters after 140 and return the original message minus the slice.
 
 
-See sliceProperty.js for solution.
+See slice.js for solution.
+
+## toUpperCase Method
+---
+
+word.toUpperCase() - this converts our variable word, into all capitalized letters.
+
+Example
+---
+In our Example below this would conver name and return "MICHAEL"
+
+```
+var name = "Michael"
+name.toUpperCase();
+```
+
+**toLowerCase()** does the same thing but opposite.
+
+## toUpperCase Challenge
+
+Objection | Send an alert that says "Hello, NAME" but their name needs to be capitalized on the first character but not the rest.
+
+
+
+
 
 
 
