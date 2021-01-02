@@ -5,7 +5,7 @@
 
 
 var userInput = prompt("Tell us your thoughts..(140 Character max)");
-var message = userInput.slice(140,240);
+var message = userInput.slice(0, 140);
 
 
 alert("You have written " + message)
