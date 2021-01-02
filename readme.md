@@ -138,6 +138,30 @@ function test() {
 
 See lengthProperthy.js for solution.
 
+## Slice Property
+---
+
+Slice lets you slice or removing part of the data.
+
+Example
+var name = "Mike"
+name.slice(0,1)  - this is only the character at the 0 position. 
+
+Returns the letter "M"
+
+var name = "Mike"
+name.slice(1,3)  - this is only the character at the 0 position. 
+
+Returns the letter "ik" would be returned.
+
+## Slice Challenge
+---
+
+Implement Twitter Character counter again but this time slice any characters after 140 and return the original message minus the slice.
+
+
+See sliceProperty.js for solution.
+
 
 
 
