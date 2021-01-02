@@ -182,6 +182,25 @@ name.toUpperCase();
 
 Objection | Send an alert that says "Hello, NAME" but their name needs to be capitalized on the first character but not the rest.
 
+## Math Methods
+---
+
+Modulo = This returns the remainder
+
+> 6/2 = 3
+> 6%2 = 0
+> 12%8 = 4
+
+- Useful for finding whether something is odd or even.
+- PEMDAS is used in programming
+- It's good practice to add () even if not needed, for readability.
+
+## Math Challenge 
+---
+
+Create a Dog age to Human Age Formula
+actual formula needed
+humanAge = (dogAge -2) x4 + 21
 
 
 
