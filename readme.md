@@ -124,6 +124,24 @@ function test() {
 ```
 
 
+## Length Property
+---
+``var example = "mike"``
+
+``example.length ``
+- Returns the number of characters in the variable example (Which is 4)
+
+## Length Challenge
+
+1. Prompt user to type a twitter like message
+2. Return the amount of Characters remaining of a max total 140 characters.
+
+See lengthProperthy.js for solution.
+
+
+
+
+
 
 
 
