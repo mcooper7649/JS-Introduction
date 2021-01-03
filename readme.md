@@ -195,6 +195,41 @@ Modulo = This returns the remainder
 - PEMDAS is used in programming
 - It's good practice to add () even if not needed, for readability.
 
+
+## Non Standard Math Methods
+---
+
+Increment Expressions
+---
+
+1) x++ = x + 1
+2) x-- = x - 1
+3) x+= = x + number you put after the +=
+4) Other increments that work =+ -= *= /=
+5) Variables can be used too
+
+
+Examples
+---
+
+> var x = 5;
+> x = x + 1; // 6
+OR
+> x++  //6
+
+
+> var x = 5;
+> var x = x + 5;  //10
+> var += 5;   //10
+
+> var x = 5;
+> var x = x / 5;  //0
+> var /= 5;   //0
+
+> var x = 5;
+> var y = 3:
+> var += y;   //8
+
 ## Math Challenge 
 ---
 
