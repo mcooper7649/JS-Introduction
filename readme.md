@@ -195,6 +195,17 @@ Modulo = This returns the remainder
 - PEMDAS is used in programming
 - It's good practice to add () even if not needed, for readability.
 
+## Math Challenge 
+---
+
+Create a Dog age to Human Age Formula
+actual formula needed
+humanAge = (dogAge -2) x4 + 21
+
+
+
+
+
 
 ## Non Standard Math Methods
 ---
@@ -230,13 +241,53 @@ OR
 > var y = 3:
 > var += y;   //8
 
-## Math Challenge 
+## Functions
 ---
 
-Create a Dog age to Human Age Formula
-actual formula needed
-humanAge = (dogAge -2) x4 + 21
+What are functions?
 
+- instead of writing the same instructions for an applications to do repetitive tasks, developers created functions to store your series of instructions. 
+
+Example 
+
+```
+function getMilk(){
+console.log("moveUp");
+console.log("moveUp");
+console.log("moveUp");
+console.log("moveUp");
+
+}
+```
+
+1. You type the word "function" in our example when declaring the function.
+
+2. The Name "getMilk" is created at this time too.
+
+3. In the () you will declare which variables need to be passed and in what order. (none in this example).
+
+4. In the {} is where we have our functions instuctions and how we would handle any variables are passed.
+
+```
+console.log("moveUp");
+console.log("moveUp");
+console.log("moveUp");
+console.log("moveUp");
+```
+
+5. When we are ready to call the function, you would call the example below.
+
+ ```getMilk();```
+
+ ## Functions Challenge Using Karel the Robot
+ ---
+
+ 1) Using a 5x5 grid
+ 2) Move karel 4 spaces forward
+ 3) Move karel 4 space up
+
+ * [Karel-the-Robot](https://stanford.edu/~cpiech/karel/ide.html)
+ * Solution in functions.js
 
 
 
@@ -251,3 +302,4 @@ humanAge = (dogAge -2) x4 + 21
 ---
 
 [MDN-JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript)
+[Karel-the-Robot](https://stanford.edu/~cpiech/karel/ide.html)
