@@ -279,17 +279,53 @@ console.log("moveUp");
 
  ```getMilk();```
 
- ## Functions Challenge Using Karel the Robot
+
+
+ ## Functions Challenge 1 Using Karel the Robot
  ---
 
  1) Using a 5x5 grid
  2) Move karel 4 spaces forward
  3) Move karel 4 space up
 
+
+## Functions Challenge 2 Using Karel the Robot
+ ---
+ 1) Using a 5x5 grid
+ 2) Have Karel putBeeper(); in a diagnal pattern across the diagram using the lest repeitistion of code as possible.
+
+
  * [Karel-the-Robot](https://stanford.edu/~cpiech/karel/ide.html)
  * Solution in functions.js
 
 
+## Functions Part 2
+---
+
+Using our getMilk.js as an example, what if we needed our robot to go to the store and buy milk but we the amount of milk we needed varied?
+
+We can use a varibale in our code. Example below
+```
+function getMilk(bottles){
+    var cost = bottles * 1.5;
+    console.log(cost) //Do something with cost
+}
+
+getMilk(2);
+
+```
+
+You can see we are passing "2" as the variable bottles when the function is executed. So when it gets to the line with:
+> var cost = bottles * 1.5
+> console.log(cost)  //returns 3
+
+
+## Functions Challenge Part 2
+---
+
+1. Using getMilk.js file
+2. Add Money Variable to the function
+3. How many bottles can you buy? Use Math.floor to make sure you return a whole number.
 
 
 
