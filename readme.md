@@ -327,6 +327,24 @@ You can see we are passing "2" as the variable bottles when the function is exec
 2. Add Money Variable to the function
 3. How many bottles can you buy? Use Math.floor to make sure you return a whole number.
 
+## Life in Weeks Coding Challenge
+---
+```
+function lifeInWeeks(age) {
+    
+/************Don't change the code above************/    
+    
+    //Write your code here.
+    
+    
+    
+    
+    
+/*************Don't change the code below**********/
+}
+```
+see lifeInWeeks.js for solution
+
 
 
 
